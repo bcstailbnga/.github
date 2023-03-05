@@ -7,3 +7,11 @@
 </h1>
 
 <h4 align="center">Official GITHUB</h4>
+
+## TEAM DEV
+
+- Lê Đại Thắng
+- Lê Đình Cường
+- Vũ Xuân Cảnh
+- Nguyễn Đỗ Long
+- Lưu Văn Sáng
